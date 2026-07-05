@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Tsotne 👋
 
-<!--
-**thecotne/thecotne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior full-stack engineer — 13+ years.** React · TypeScript · Node.js. I build production web, mobile, and **live-video / streaming** systems, and I'm currently building **AI agents**.
 
-Here are some ideas to get you started:
+- 🎥 Shipped streaming infrastructure & custom players for national broadcasters — 1TV, Parliament TV, MyVideo, iMovies (Flash→HTML5, HLS/DASH, WebRTC)
+- 🤖 Currently building **AI agents** on top of a deep engineering foundation
+- ⚡ 13 years across frontend, backend, mobile, Web3 & cloud — I ramp on new stacks fast
+- 🏆 Toptal top 3% · WorldSkills Georgia national winner (competed internationally, Abu Dhabi)
+- 🌍 Remote, any timezone · 🇬🇪 Tbilisi · English / Russian / Georgian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech
+**Frontend:** React · Next.js · React Native · TypeScript · Redux · Tailwind
+**Backend:** Node.js · NestJS · Laravel · GraphQL · REST · PostgreSQL
+**Streaming & Media:** HLS · DASH · WebRTC · custom video players · Live / DVR / VOD
+**AI:** AI agents · LLM integration
+**Cloud / DevOps:** Docker · AWS · CI/CD
+
+#### Currently
+Open to **senior full-stack / streaming / AI-engineering** roles — contract or full-time.
+
+📫 cotne.95@gmail.com · [LinkedIn](https://linkedin.com/in/cotne) · [Toptal](https://www.toptal.com/resume/tsotne-nazarashvili)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecotne&show_icons=true&hide_border=true&count_private=true)
