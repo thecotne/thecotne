@@ -20,4 +20,4 @@
 
 Open to **senior full-stack / streaming / AI-engineering** roles — contract or full-time.
 
-📫 cotne.95@gmail.com · [Portfolio](https://thecotne.com) Â· [LinkedIn](https://linkedin.com/in/cotne) · [Toptal](https://www.toptal.com/resume/tsotne-nazarashvili)
+📫 cotne.95@gmail.com · [Portfolio](https://thecotne.com) · [LinkedIn](https://linkedin.com/in/cotne) · [Toptal](https://www.toptal.com/resume/tsotne-nazarashvili)
