@@ -9,13 +9,15 @@
 - 🌍 Remote, any timezone · 🇬🇪 Tbilisi · English / Russian / Georgian
 
 #### Tech
-**Frontend:** React · Next.js · React Native · TypeScript · Redux · Tailwind
-**Backend:** Node.js · NestJS · Laravel · GraphQL · REST · PostgreSQL
-**Streaming & Media:** HLS · DASH · WebRTC · custom video players · Live / DVR / VOD
-**AI:** AI agents · LLM integration
-**Cloud / DevOps:** Docker · AWS · CI/CD
+
+**Frontend:** React · Next.js · React Native · TypeScript · Redux · Tailwind<br>
+**Backend:** Node.js · NestJS · Laravel · GraphQL · REST · PostgreSQL<br>
+**Streaming & Media:** HLS · DASH · WebRTC · custom video players · Live / DVR / VOD<br>
+**AI:** AI agents · LLM integration<br>
+**Cloud / DevOps:** Docker · AWS · CI/CD<br>
 
 #### Currently
+
 Open to **senior full-stack / streaming / AI-engineering** roles — contract or full-time.
 
 📫 cotne.95@gmail.com · [LinkedIn](https://linkedin.com/in/cotne) · [Toptal](https://www.toptal.com/resume/tsotne-nazarashvili)
