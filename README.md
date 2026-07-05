@@ -5,7 +5,7 @@
 - 🎥 Shipped streaming infrastructure & custom players for national broadcasters — 1TV, Parliament TV, MyVideo, iMovies (Flash→HTML5, HLS/DASH, WebRTC)
 - 🤖 Currently building **AI agents** on top of a deep engineering foundation
 - ⚡ 13 years across frontend, backend, mobile, Web3 & cloud — I ramp on new stacks fast
-- 🏆 Toptal top 3% · WorldSkills Georgia national winner (competed internationally, Abu Dhabi)
+- 🏆 Member of the Toptal network · WorldSkills Georgia national winner (competed internationally, Abu Dhabi)
 - 🌍 Remote, any timezone · 🇬🇪 Tbilisi · English / Russian / Georgian
 
 #### Tech
